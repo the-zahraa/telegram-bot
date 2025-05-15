@@ -1,0 +1,8 @@
+flask==2.3.3
+python-telegram-bot==20.8
+supabase==2.7.1
+python-dotenv==1.0.1
+requests==2.32.3
+gunicorn==22.0.0
+gevent==24.2.1
+werkzeug==3.0.3
